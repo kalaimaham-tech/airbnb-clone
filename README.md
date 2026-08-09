@@ -31,7 +31,7 @@ A full-stack Airbnb-style web application developed using the MERN stack as part
 ![Home Page](screenshots/home.png)
 
 ### Property Listing
-![Property Listing](screenshots/property-listing.png)
+![Property Listing](screenshots/property_listing.png)
 
 ### Login Page
 ![Login Page](screenshots/login.png)
