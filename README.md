@@ -49,5 +49,5 @@ airbnb-clone/
 │   ├── bookings.png
 │   ├── home.png
 │   ├── login.png
-│   └── property-listing.png
+│   └── property_listing.png
 └── README.md
